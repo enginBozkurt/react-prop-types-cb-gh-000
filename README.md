@@ -155,4 +155,6 @@ In this lesson, we've covered the basics of using PropTypes. There's much more v
 
 [proptypes-documentation]: https://reactjs.org/docs/typechecking-with-proptypes.html
 
+- [prop-types - npm](https://www.npmjs.com/package/prop-types)
+
 <p class='util--hide'>View <a href='https://learn.co/lessons/react-prop-types'>propTypes</a> on Learn.co and start learning to code for free.</p>
